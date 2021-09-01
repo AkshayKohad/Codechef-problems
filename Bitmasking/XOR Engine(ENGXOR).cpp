@@ -1,3 +1,10 @@
+// Thing to remember 
+// 1)XOR of number with odd no. of 1's and another with odd no. of 1's will always give result with even no. of 1's
+// 2)XOR of number with even no. of 1's and another with even no. of 1's will always give result with even no. of 1's
+// 3)XOR of number with even no. of 1's and another with odd no. of 1's will always give result with odd no. of 1's
+// 4)XOR of number with odd no. of 1's and another with even no. of 1's will always give result with odd no. of 1's
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
