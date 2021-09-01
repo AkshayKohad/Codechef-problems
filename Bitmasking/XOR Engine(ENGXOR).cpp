@@ -49,10 +49,10 @@ int main() {
         int count = countbits(p);
             
             if(count%2==1)
-            cout<<counto<<" "<<counte<<endl;
+            cout<<counto<<" "<<counte<<'\n';
             
             else
-             cout<<counte<<" "<<counto<<endl;
+             cout<<counte<<" "<<counto<<'\n';
             
         }
     }
